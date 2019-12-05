@@ -5,7 +5,7 @@
 
 
 
-### 功能
+## 功能
 
 - 从歌名（歌手名）爬取id，避免手动操作，避免重定向造成的下载失败
 - 模块化，可以通过简单调用批量爬取大量数据
@@ -14,7 +14,7 @@
 
 
 
-### 使用方法
+## 使用方法
 
 - 克隆到本地
 
@@ -42,13 +42,13 @@ python run.py
 
 
 
-### run.py命令行效果
+## run.py命令行效果
 
 ![](http://kylinhub.oss-cn-shanghai.aliyuncs.com/2019-12-05-%E6%88%AA%E5%B1%8F2019-12-05%E4%B8%8A%E5%8D%8811.10.04.png)
 
 
 
-### Bob Dylan
+## Bob Dylan
 
 ![](http://kylinhub.oss-cn-shanghai.aliyuncs.com/2019-12-05-ctyp-bob-dylan-bday.jpg)
 
